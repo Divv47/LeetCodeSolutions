@@ -78,3 +78,19 @@ My objective with this repository is to:
 ## 🌱 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-vairagade-38226227a/) where I post updates about my LeetCode progress, coding challenges, and more!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
+<!---LeetCode Topics End-->
