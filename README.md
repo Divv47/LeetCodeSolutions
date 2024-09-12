@@ -96,6 +96,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 ## Array
 |  |
@@ -120,6 +121,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [3567-convert-date-to-binary](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 ## Depth-First Search
 |  |
