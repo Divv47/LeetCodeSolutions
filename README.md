@@ -105,6 +105,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3567-convert-date-to-binary](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 ## Depth-First Search
 |  |
