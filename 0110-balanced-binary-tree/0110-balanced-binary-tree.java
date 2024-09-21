@@ -20,7 +20,7 @@ class Solution {
         int rightlevel = levels(root.right,ans);
         int diff = Math.abs(leftlevel-rightlevel);
         if(diff>1) ans[0] = false;
-        return 1+ Math.max(leftlevel,rightlevel);
+       return 1+ Math.max(leftlevel,rightlevel);
     }
     public boolean isBalanced(TreeNode root) {
         boolean [] ans = {true};
