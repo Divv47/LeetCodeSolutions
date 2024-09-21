@@ -139,6 +139,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -168,6 +169,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0100-same-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -183,6 +185,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0100-same-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
