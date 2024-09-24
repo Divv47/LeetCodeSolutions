@@ -17,9 +17,8 @@ class Solution {
     //TreeNode print(TreeNode root)
     TreeNode helper(TreeNode root, int val){
         if(root==null || root.val==val) return root;
-        else if(root.val>val) root = helper(root.left,val);
-        else root = helper(root.right,val);
-        return root;
+        else if(root.val>val) return helper(root.left,val);
+        else return helper(root.right,val);
     }
     public TreeNode searchBST(TreeNode root, int val) {
         return helper(root,val);
