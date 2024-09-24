@@ -182,6 +182,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,4 +216,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0113-path-sum-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
