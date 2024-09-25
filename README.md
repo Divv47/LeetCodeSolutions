@@ -120,6 +120,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0784-insert-into-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0784-insert-into-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,4 +248,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0784-insert-into-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
