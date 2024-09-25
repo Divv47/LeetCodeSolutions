@@ -109,6 +109,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -176,6 +178,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0100-same-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
@@ -200,6 +203,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0100-same-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0113-path-sum-ii) |
@@ -234,6 +238,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
