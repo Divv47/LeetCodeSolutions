@@ -110,6 +110,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
@@ -168,6 +169,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -258,4 +260,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
