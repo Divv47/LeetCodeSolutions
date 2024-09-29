@@ -86,6 +86,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0206-reverse-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -176,6 +177,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
