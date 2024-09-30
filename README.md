@@ -117,6 +117,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0136-single-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,12 +138,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3567-convert-date-to-binary](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 ## Depth-First Search
 |  |
@@ -278,4 +281,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
