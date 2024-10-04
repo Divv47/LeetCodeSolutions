@@ -119,6 +119,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0228-summary-ranges](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -143,6 +144,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0001-two-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
