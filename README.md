@@ -116,6 +116,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -133,6 +134,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Matrix
@@ -284,6 +286,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -303,4 +306,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
