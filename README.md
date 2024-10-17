@@ -96,6 +96,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3567-convert-date-to-binary](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 ## Stack
@@ -120,6 +121,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0228-summary-ranges](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -138,6 +140,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Matrix
 |  |
@@ -291,6 +294,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -315,12 +319,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
