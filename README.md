@@ -126,6 +126,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [1127-last-stone-weight](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
+| [1603-running-sum-of-1d-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -346,4 +347,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
