@@ -132,6 +132,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
@@ -355,6 +356,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0303-range-sum-query-immutable](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Design
 |  |
 | ------- |
