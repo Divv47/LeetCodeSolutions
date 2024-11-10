@@ -123,6 +123,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0303-range-sum-query-immutable](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -352,6 +353,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 ## Design
 |  |
