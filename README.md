@@ -117,6 +117,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -139,6 +140,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
@@ -342,6 +344,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Geometry
@@ -355,6 +358,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
