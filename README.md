@@ -96,6 +96,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
+| [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3567-convert-date-to-binary](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
@@ -218,6 +219,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -376,5 +378,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
