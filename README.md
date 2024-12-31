@@ -127,6 +127,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -378,6 +379,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
