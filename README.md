@@ -118,6 +118,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0228-summary-ranges) |
@@ -379,6 +380,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
