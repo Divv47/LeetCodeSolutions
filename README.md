@@ -117,6 +117,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -163,6 +164,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -383,6 +385,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
