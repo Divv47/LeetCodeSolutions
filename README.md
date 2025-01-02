@@ -95,6 +95,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -381,6 +382,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
@@ -391,4 +393,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
