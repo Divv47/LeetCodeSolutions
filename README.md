@@ -96,6 +96,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
@@ -173,6 +174,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -184,6 +186,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
