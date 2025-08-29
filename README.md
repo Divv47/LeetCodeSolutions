@@ -176,6 +176,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0001-two-sum](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
@@ -188,6 +189,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0013-roman-to-integer](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -322,6 +324,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
