@@ -415,4 +415,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0175-combine-two-tables) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
