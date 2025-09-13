@@ -411,4 +411,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
