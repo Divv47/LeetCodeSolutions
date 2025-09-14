@@ -192,6 +192,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0242-valid-anagram](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3567-convert-date-to-binary](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/3567-convert-date-to-binary) |
 ## Depth-First Search
@@ -227,6 +228,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+| [1894-merge-strings-alternately](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
