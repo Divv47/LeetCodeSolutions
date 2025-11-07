@@ -140,6 +140,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -155,6 +156,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0347-top-k-frequent-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1319-unique-number-of-occurrences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -228,6 +231,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0088-merge-sorted-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
@@ -331,6 +335,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh-
 | [0658-find-k-closest-elements](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyansh-Scripts/LeetCodeSolutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
