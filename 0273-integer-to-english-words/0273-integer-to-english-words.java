@@ -11,8 +11,8 @@ private final String[] THOUSANDS = {"", "Thousand", "Million", "Billion"};
     while (num > 0) {
         if (num % 1000 != 0)
     	    words = helper(num % 1000) +THOUSANDS[i] + " " + words;
-    	num /= 1000;
-    	i++;
+    	    num /= 1000;
+    	    i++;
     }
     
     return words.trim();
